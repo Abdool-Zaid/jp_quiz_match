@@ -1,0 +1,13 @@
+[
+   
+    {"question": "ten", "answer": "十", "sound":"jyu"},
+    {"question": "nine", "answer": "九", "sound":"kyu"},
+    {"question": "eight", "answer": "八", "sound":"hati"},
+    {"question": "seven", "answer": "七", "sound":"siti"},
+    {"question": "six", "answer": "六", "sound":"roku"},
+    {"question": "five", "answer": "五", "sound":"go"},
+    {"question": "four", "answer": "四", "sound":"yon"},
+    {"question": "three", "answer": "三", "sound":"san"},
+    {"question": "two", "answer": "二", "sound":"ni"},
+    {"question": "one", "answer": "一", "sound":"iti"}
+]
